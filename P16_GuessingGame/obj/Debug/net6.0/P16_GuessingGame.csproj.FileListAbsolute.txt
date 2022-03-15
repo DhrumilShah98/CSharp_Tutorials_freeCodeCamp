@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\bin\Debug\net6.0\P16_GuessingGame.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\bin\Debug\net6.0\P16_GuessingGame.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\bin\Debug\net6.0\P16_GuessingGame.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\bin\Debug\net6.0\P16_GuessingGame.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\bin\Debug\net6.0\P16_GuessingGame.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\P16_GuessingGame.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\P16_GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\P16_GuessingGame.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\P16_GuessingGame.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\P16_GuessingGame.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\P16_GuessingGame.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\refint\P16_GuessingGame.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\P16_GuessingGame.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\P16_GuessingGame.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P16_GuessingGame\obj\Debug\net6.0\ref\P16_GuessingGame.dll

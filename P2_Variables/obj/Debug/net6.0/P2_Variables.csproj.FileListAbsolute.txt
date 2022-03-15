@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\bin\Debug\net6.0\P2_Variables.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\bin\Debug\net6.0\P2_Variables.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\bin\Debug\net6.0\P2_Variables.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\bin\Debug\net6.0\P2_Variables.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\bin\Debug\net6.0\P2_Variables.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\P2_Variables.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\P2_Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\P2_Variables.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\P2_Variables.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\P2_Variables.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\P2_Variables.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\refint\P2_Variables.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\P2_Variables.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\P2_Variables.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P2_Variables\obj\Debug\net6.0\ref\P2_Variables.dll

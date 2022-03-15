@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\bin\Debug\net6.0\P4_Strings.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\bin\Debug\net6.0\P4_Strings.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\bin\Debug\net6.0\P4_Strings.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\bin\Debug\net6.0\P4_Strings.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\bin\Debug\net6.0\P4_Strings.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\P4_Strings.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\P4_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\P4_Strings.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\P4_Strings.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\P4_Strings.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\P4_Strings.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\refint\P4_Strings.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\P4_Strings.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\P4_Strings.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P4_Strings\obj\Debug\net6.0\ref\P4_Strings.dll

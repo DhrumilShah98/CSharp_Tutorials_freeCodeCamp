@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\bin\Debug\net6.0\P18_2DArrays.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\bin\Debug\net6.0\P18_2DArrays.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\bin\Debug\net6.0\P18_2DArrays.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\bin\Debug\net6.0\P18_2DArrays.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\bin\Debug\net6.0\P18_2DArrays.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\P18_2DArrays.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\P18_2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\P18_2DArrays.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\P18_2DArrays.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\P18_2DArrays.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\P18_2DArrays.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\refint\P18_2DArrays.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\P18_2DArrays.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\P18_2DArrays.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P18_2DArrays\obj\Debug\net6.0\ref\P18_2DArrays.dll

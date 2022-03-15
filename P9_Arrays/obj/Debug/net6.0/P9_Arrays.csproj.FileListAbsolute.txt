@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\bin\Debug\net6.0\P9_Arrays.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\bin\Debug\net6.0\P9_Arrays.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\bin\Debug\net6.0\P9_Arrays.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\bin\Debug\net6.0\P9_Arrays.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\bin\Debug\net6.0\P9_Arrays.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\P9_Arrays.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\P9_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\P9_Arrays.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\P9_Arrays.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\P9_Arrays.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\P9_Arrays.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\refint\P9_Arrays.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\P9_Arrays.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\P9_Arrays.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P9_Arrays\obj\Debug\net6.0\ref\P9_Arrays.dll

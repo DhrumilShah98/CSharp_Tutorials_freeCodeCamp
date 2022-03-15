@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P19_ExceptionHandling/1.0.0": {
+        "runtime": {
+          "P19_ExceptionHandling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P19_ExceptionHandling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

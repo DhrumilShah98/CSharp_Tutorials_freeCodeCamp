@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\bin\Debug\net6.0\P17_ExponentMethod.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\bin\Debug\net6.0\P17_ExponentMethod.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\bin\Debug\net6.0\P17_ExponentMethod.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\bin\Debug\net6.0\P17_ExponentMethod.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\bin\Debug\net6.0\P17_ExponentMethod.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\P17_ExponentMethod.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\P17_ExponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\P17_ExponentMethod.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\P17_ExponentMethod.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\P17_ExponentMethod.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\P17_ExponentMethod.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\refint\P17_ExponentMethod.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\P17_ExponentMethod.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\P17_ExponentMethod.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P17_ExponentMethod\obj\Debug\net6.0\ref\P17_ExponentMethod.dll

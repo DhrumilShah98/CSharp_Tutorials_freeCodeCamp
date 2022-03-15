@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\bin\Debug\net6.0\P3_Datatypes.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\bin\Debug\net6.0\P3_Datatypes.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\bin\Debug\net6.0\P3_Datatypes.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\bin\Debug\net6.0\P3_Datatypes.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\bin\Debug\net6.0\P3_Datatypes.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\P3_Datatypes.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\P3_Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\P3_Datatypes.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\P3_Datatypes.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\P3_Datatypes.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\P3_Datatypes.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\refint\P3_Datatypes.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\P3_Datatypes.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\P3_Datatypes.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P3_Datatypes\obj\Debug\net6.0\ref\P3_Datatypes.dll

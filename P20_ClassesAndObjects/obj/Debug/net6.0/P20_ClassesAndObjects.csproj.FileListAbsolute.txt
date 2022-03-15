@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\bin\Debug\net6.0\P20_ClassesAndObjects.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\bin\Debug\net6.0\P20_ClassesAndObjects.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\bin\Debug\net6.0\P20_ClassesAndObjects.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\bin\Debug\net6.0\P20_ClassesAndObjects.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\bin\Debug\net6.0\P20_ClassesAndObjects.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\P20_ClassesAndObjects.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\P20_ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\P20_ClassesAndObjects.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\P20_ClassesAndObjects.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\P20_ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\P20_ClassesAndObjects.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\refint\P20_ClassesAndObjects.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\P20_ClassesAndObjects.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\P20_ClassesAndObjects.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P20_ClassesAndObjects\obj\Debug\net6.0\ref\P20_ClassesAndObjects.dll

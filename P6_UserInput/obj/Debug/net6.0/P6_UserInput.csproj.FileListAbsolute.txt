@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\bin\Debug\net6.0\P6_UserInput.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\bin\Debug\net6.0\P6_UserInput.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\bin\Debug\net6.0\P6_UserInput.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\bin\Debug\net6.0\P6_UserInput.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\bin\Debug\net6.0\P6_UserInput.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\P6_UserInput.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\P6_UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\P6_UserInput.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\P6_UserInput.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\P6_UserInput.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\P6_UserInput.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\refint\P6_UserInput.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\P6_UserInput.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\P6_UserInput.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P6_UserInput\obj\Debug\net6.0\ref\P6_UserInput.dll

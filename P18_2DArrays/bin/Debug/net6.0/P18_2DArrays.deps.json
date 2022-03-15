@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P18_2DArrays/1.0.0": {
+        "runtime": {
+          "P18_2DArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P18_2DArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

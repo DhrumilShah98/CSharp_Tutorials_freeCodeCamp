@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\bin\Debug\net6.0\P13_AdvancedCalculator.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\bin\Debug\net6.0\P13_AdvancedCalculator.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\bin\Debug\net6.0\P13_AdvancedCalculator.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\bin\Debug\net6.0\P13_AdvancedCalculator.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\bin\Debug\net6.0\P13_AdvancedCalculator.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\P13_AdvancedCalculator.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\P13_AdvancedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\P13_AdvancedCalculator.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\P13_AdvancedCalculator.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\P13_AdvancedCalculator.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\P13_AdvancedCalculator.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\refint\P13_AdvancedCalculator.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\P13_AdvancedCalculator.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\P13_AdvancedCalculator.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P13_AdvancedCalculator\obj\Debug\net6.0\ref\P13_AdvancedCalculator.dll

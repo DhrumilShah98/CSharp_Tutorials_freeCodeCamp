@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\bin\Debug\net6.0\P7_Calculator.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\bin\Debug\net6.0\P7_Calculator.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\bin\Debug\net6.0\P7_Calculator.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\bin\Debug\net6.0\P7_Calculator.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\bin\Debug\net6.0\P7_Calculator.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\P7_Calculator.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\P7_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\P7_Calculator.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\P7_Calculator.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\P7_Calculator.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\P7_Calculator.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\refint\P7_Calculator.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\P7_Calculator.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\P7_Calculator.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P7_Calculator\obj\Debug\net6.0\ref\P7_Calculator.dll

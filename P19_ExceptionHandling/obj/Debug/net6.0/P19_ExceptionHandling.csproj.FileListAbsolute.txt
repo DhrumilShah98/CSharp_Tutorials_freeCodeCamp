@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\bin\Debug\net6.0\P19_ExceptionHandling.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\bin\Debug\net6.0\P19_ExceptionHandling.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\bin\Debug\net6.0\P19_ExceptionHandling.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\bin\Debug\net6.0\P19_ExceptionHandling.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\bin\Debug\net6.0\P19_ExceptionHandling.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\P19_ExceptionHandling.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\P19_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\P19_ExceptionHandling.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\P19_ExceptionHandling.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\P19_ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\P19_ExceptionHandling.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\refint\P19_ExceptionHandling.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\P19_ExceptionHandling.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\P19_ExceptionHandling.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P19_ExceptionHandling\obj\Debug\net6.0\ref\P19_ExceptionHandling.dll

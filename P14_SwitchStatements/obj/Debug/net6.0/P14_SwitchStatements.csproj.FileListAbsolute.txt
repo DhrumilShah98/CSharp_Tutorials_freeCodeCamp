@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\bin\Debug\net6.0\P14_SwitchStatements.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\bin\Debug\net6.0\P14_SwitchStatements.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\bin\Debug\net6.0\P14_SwitchStatements.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\bin\Debug\net6.0\P14_SwitchStatements.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\bin\Debug\net6.0\P14_SwitchStatements.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\P14_SwitchStatements.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\P14_SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\P14_SwitchStatements.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\P14_SwitchStatements.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\P14_SwitchStatements.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\P14_SwitchStatements.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\refint\P14_SwitchStatements.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\P14_SwitchStatements.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\P14_SwitchStatements.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P14_SwitchStatements\obj\Debug\net6.0\ref\P14_SwitchStatements.dll

@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\bin\Debug\net6.0\P10_Methods.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\bin\Debug\net6.0\P10_Methods.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\bin\Debug\net6.0\P10_Methods.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\bin\Debug\net6.0\P10_Methods.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\bin\Debug\net6.0\P10_Methods.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\P10_Methods.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\P10_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\P10_Methods.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\P10_Methods.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\P10_Methods.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\P10_Methods.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\refint\P10_Methods.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\P10_Methods.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\P10_Methods.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P10_Methods\obj\Debug\net6.0\ref\P10_Methods.dll

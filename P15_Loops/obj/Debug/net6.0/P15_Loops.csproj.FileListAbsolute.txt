@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\bin\Debug\net6.0\P15_Loops.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\bin\Debug\net6.0\P15_Loops.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\bin\Debug\net6.0\P15_Loops.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\bin\Debug\net6.0\P15_Loops.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\bin\Debug\net6.0\P15_Loops.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\P15_Loops.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\P15_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\P15_Loops.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\P15_Loops.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\P15_Loops.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\P15_Loops.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\refint\P15_Loops.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\P15_Loops.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\P15_Loops.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P15_Loops\obj\Debug\net6.0\ref\P15_Loops.dll

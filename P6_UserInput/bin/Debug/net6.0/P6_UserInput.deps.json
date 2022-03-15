@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P6_UserInput/1.0.0": {
+        "runtime": {
+          "P6_UserInput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P6_UserInput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

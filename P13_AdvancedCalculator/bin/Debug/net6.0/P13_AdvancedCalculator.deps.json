@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P13_AdvancedCalculator/1.0.0": {
+        "runtime": {
+          "P13_AdvancedCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P13_AdvancedCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\bin\Debug\net6.0\P5_WorkingWithNumbers.exe
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\bin\Debug\net6.0\P5_WorkingWithNumbers.deps.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\bin\Debug\net6.0\P5_WorkingWithNumbers.runtimeconfig.json
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\bin\Debug\net6.0\P5_WorkingWithNumbers.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\bin\Debug\net6.0\P5_WorkingWithNumbers.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\P5_WorkingWithNumbers.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\P5_WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\P5_WorkingWithNumbers.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\P5_WorkingWithNumbers.AssemblyInfo.cs
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\P5_WorkingWithNumbers.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\P5_WorkingWithNumbers.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\refint\P5_WorkingWithNumbers.dll
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\P5_WorkingWithNumbers.pdb
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\P5_WorkingWithNumbers.genruntimeconfig.cache
+D:\VisualStudioProjects\C#_Tutorials_freeCodeCamp\P5_WorkingWithNumbers\obj\Debug\net6.0\ref\P5_WorkingWithNumbers.dll
